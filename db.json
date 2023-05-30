@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "ma_loaisach": "CNTT",
+      "ten_loaisach": "Cong Nghe Thong Tin"
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "DICT",
+      "ten_loaisach": "Tu Dien"
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "KNM",
+      "ten_loaisach": "Ky Nang Mem"
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "KT",
+      "ten_loaisach": "Kinh Te"
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "NB",
+      "ten_loaisach": "Ngoai Ngu Hoc"
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "PL",
+      "ten_loaisach": "Phap Luat"
+    }
+  ]
+}
