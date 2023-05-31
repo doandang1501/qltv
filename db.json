@@ -2,33 +2,63 @@
   "posts": [
     {
       "userId": 1,
-      "ma_loaisach": "CNTT",
-      "ten_loaisach": "Cong Nghe Thong Tin"
+      "ma_loaisach": "To Kill a Mockingbird",
+      "ten_loaisach": "Một cuốn tiểu thuyết tuyệt vời về sự ngây thơ, công lý và sự phân biệt chủng tộc trong xã hội Mỹ."
     },
     {
       "userId": 1,
-      "ma_loaisach": "DICT",
-      "ten_loaisach": "Tu Dien"
+      "ma_loaisach": "1984",
+      "ten_loaisach": "Một tác phẩm kinh điển về xã hội độc tài và sự kiểm soát của chính quyền."
     },
     {
       "userId": 1,
-      "ma_loaisach": "KNM",
-      "ten_loaisach": "Ky Nang Mem"
+      "ma_loaisach": "Pride and Prejudice",
+      "ten_loaisach": "Một câu chuyện tình lãng mạn về gia đình, tình yêu và những rào cản xã hội."
     },
     {
       "userId": 1,
-      "ma_loaisach": "KT",
-      "ten_loaisach": "Kinh Te"
+      "ma_loaisach": "The Great Gatsby",
+      "ten_loaisach": "Một bức tranh tuyệt vời về cuộc sống giàu có, sự tham vọng và cuộc đua sau thành công."
     },
     {
       "userId": 1,
-      "ma_loaisach": "NB",
-      "ten_loaisach": "Ngoai Ngu Hoc"
+      "ma_loaisach": "The Odyssey",
+      "ten_loaisach": "Một cuộc phiêu lưu huyền thoại về sự trở về và những thử thách của một người anh hùng."
     },
     {
       "userId": 1,
-      "ma_loaisach": "PL",
-      "ten_loaisach": "Phap Luat"
+      "ma_loaisach": "Moby-Dick",
+      "ten_loaisach": "Một cuốn tiểu thuyết nổi tiếng về tuổi trẻ, sự trỗi dậy và sự thất vọng."
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "The Catcher in the Rye",
+      "ten_loaisach": "Một cuộc hành trình khám phá và cuộc chiến với con cá voi khổng lồ."
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "The Lord of the Rings",
+      "ten_loaisach": "Một cuốn tiểu thuyết nổi tiếng về tuổi trẻ, sự trỗi dậy và sự thất vọng."
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "Jane Eyre",
+      "ten_loaisach": "Một câu chuyện tình cảm đẹp và đầy cảm xúc về cuộc sống và tìm kiếm ý nghĩa."
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "Brave New World",
+      "ten_loaisach": "Một tương lai tưởng tượng về sự kiểm soát và con người trong một xã hội công nghệ cao."
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "The Hobbit",
+      "ten_loaisach": "Một câu chuyện phiêu lưu vui nhộn và hấp dẫn trong thế giới của Middle-earth."
+    },
+    {
+      "userId": 1,
+      "ma_loaisach": "To the Lighthouse",
+      "ten_loaisach": "Một tác phẩm nghệ thuật đầy tinh thần về thời gian, nhận thức và tình yêu."
     }
   ]
 }
